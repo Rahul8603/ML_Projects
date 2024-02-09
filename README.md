@@ -1,1 +1,1 @@
-# ML_Projects
+Health Insurance Premium prediction is a machine learning project and the main model is Linear Regression and Support Vector Machine and Random Forest Regressor and Gradient Boosting Regressor and the prediction accuracy is the highest.
